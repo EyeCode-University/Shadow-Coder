@@ -22,3 +22,4 @@ assets/ (звуки клавиш, иконки)
 README.md
 </pre>
 <div align="center"> <div>📤 Сдача</div> <p>Отправить репозиторий GitHub или архив ZIP.</p> <p>⏳ Дедлайн: 14 дней</p> <a href="https://www.eyecodeuniversity.ru">www.eyecodeuniversity.ru</a> </div>
+<img src="shadow-coder-icon.jpg">
